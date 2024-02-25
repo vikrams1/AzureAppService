@@ -12,7 +12,7 @@ namespace Core_HelloWorld.Pages
         public string Message { get; set; }
         public void OnGet()
         {
-            this.Message = "This is my First ASP.Net Core Vikram Page";
+            this.Message = "This is my First ASP.Net Core Edureks Page";
         }
     }
 }
